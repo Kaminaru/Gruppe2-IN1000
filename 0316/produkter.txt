@@ -1,0 +1,3 @@
+Fisk,73.50,10
+Potetgull,25.99,15
+Ananas,15.00,5
